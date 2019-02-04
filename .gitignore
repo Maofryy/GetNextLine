@@ -2,3 +2,5 @@
 Libft/objs/*.o
 Libft/*.a
 *.swp
+*.o
+GNLTests
