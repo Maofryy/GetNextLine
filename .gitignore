@@ -1,0 +1,4 @@
+*.out
+Libft/objs/*.o
+Libft/*.a
+*.swp
