@@ -1,6 +1,6 @@
 *.out
-Libft/objs/*.o
-Libft/*.a
+libft/objs/*.o
+libft/*.a
 *.swp
 *.o
 GNLTests
